@@ -41,7 +41,7 @@ datascienv is a python package offering a single line Data Science Environment s
 
 #### Installation
 
-datasciecne is currently available on the PyPi's repository and you can install it via pip:
+datascience is currently available on the PyPi's repository and you can install it via pip:
 
 ```bash
 pip install -U datascienv
