@@ -24,7 +24,7 @@ twine upload dist/*
 
 5. When you want to update the package must update version in `setup.py` file.
 
-![](img/version.jpg)
+![](img\version.jpg)
 
 6.  update package on `pypi`.
 
