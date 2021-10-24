@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+datascienv/__init__.py
+datascienv/datascienv.py
+datascienv.egg-info/PKG-INFO
+datascienv.egg-info/SOURCES.txt
+datascienv.egg-info/dependency_links.txt
+datascienv.egg-info/requires.txt
+datascienv.egg-info/top_level.txt
+datascienv.egg-info/zip-safe
