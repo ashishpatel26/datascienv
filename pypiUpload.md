@@ -20,11 +20,11 @@ twine upload dist/*
 
 4. Your package uploaded successfully.
 
-![](img\success.jpg)
+![](https://raw.githubusercontent.com/ashishpatel26/datascienv/main/img/success.jpg)
 
 5. When you want to update the package must update version in `setup.py` file.
 
-![](img\version.jpg)
+![](https://raw.githubusercontent.com/ashishpatel26/datascienv/main/img/version.jpg)
 
 6.  update package on `pypi`.
 
