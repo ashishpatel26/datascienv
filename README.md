@@ -41,13 +41,13 @@ datascienv is a python package offering a single line Data Science Environment s
 
 #### Installation
 
-datascience is currently available on the PyPi's repository and you can install it via pip:
+* datascience is currently available on the PyPi's repository and you can install it via pip:
 
 ```bash
 pip install -U datascienv
 ```
 
-If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
+* If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
 
 ```bash
 git clone https://github.com/ashishpatel26/datascienv.git
@@ -55,8 +55,15 @@ cd datascienv
 pip install .
 ```
 
-Or install using pip and GitHub:
+* Or install using pip and GitHub:
 
 ```bash
 pip install -U git+https://github.com/ashishpatel26/datascienv.git
 ```
+
+* **Warnings:** If you find this type of warning then ignore that warning.
+
+![](img\warning.jpg)
+
+---
+
