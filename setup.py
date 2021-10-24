@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.01'
+VERSION = '0.1.1'
 DESCRIPTION = 'Data Science package for setup data science environment in single line'
 LONG_DESCRIPTION = 'A package that allow you to build data science environment in single line of code and save your time. It is include one line import package pyforest so you can upload all environment in single line of code'
 

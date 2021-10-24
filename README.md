@@ -1,4 +1,4 @@
-# Data Science Environment Setup in Single line
+# Data Science Environment Setup in single line
 
 This package helps to setup your Data Science environment in single line.
 
@@ -11,31 +11,7 @@ datascienv is a python package offering a single line Data Science Environment s
 
 ### Installation
 
-datascienv  is currently available on the PyPi's repository and you can install it via pip:
-
-```bash
-pip install -U datascienv
-```
-
-The package is release also in Anaconda Cloud platform:
-
-```bash
-conda install -c conda-forge datascienv
-```
-
-If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
-
-```bash
-git clone https://github.com/ashishpatel26/datascienv.git
-cd datascienv
-pip install .
-```
-
-Or install using pip and GitHub:
-
-```bash
-pip install -U git+https://github.com/ashishpatel26/datascienv.git
-```
+---
 
 #### Dependencies
 
@@ -60,3 +36,31 @@ pip install -U git+https://github.com/ashishpatel26/datascienv.git
 - `catboost`(latest) - https://catboost.ai/
 - `pycaret`(latest) - https://pycaret.org/
 
+
+#### Installation
+
+datasciecne is currently available on the PyPi's repository and you can install it via pip:
+
+```bash
+pip install -U datascienv
+```
+
+The package is release also in Anaconda Cloud platform:
+
+```bash
+conda install -c conda-forge datascienv
+```
+
+If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
+
+```bash
+git clone https://github.com/ashishpatel26/datascienv.git
+cd datascienv
+pip install .
+```
+
+Or install using pip and GitHub:
+
+```bash
+pip install -U git+https://github.com/ashishpatel26/datascienv.git
+```
