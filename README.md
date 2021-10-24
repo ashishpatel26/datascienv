@@ -63,7 +63,7 @@ pip install -U git+https://github.com/ashishpatel26/datascienv.git
 
 * **Warnings:** If you find this type of warning then ignore that warning.
 
-![](img\warning.jpg)
+![](https://raw.githubusercontent.com/ashishpatel26/datascienv/main/img/warning.jpg)
 
 ---
 
