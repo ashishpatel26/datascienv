@@ -2,14 +2,11 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-here = os.path.abspath(os.path.dirname(__file__))
+with open("README.md") as f:
+    long_description = f.read()
 
-with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
-    long_description = "\n" + fh.read()
-
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 DESCRIPTION = 'Data Science package for setup data science environment in single line'
-LONG_DESCRIPTION = 'A package that allow you to build data science environment in single line of code and save your time. It is include one line import package pyforest so you can upload all environment in single line of code'
 
 # Setting up
 setup(
@@ -22,20 +19,17 @@ setup(
     long_description=long_description,
     packages=find_packages(),
     install_requires=['pandas', 'numpy', 'scipy', 'matplotlib', 'seaborn', 
-                      'scikit-learn', 'statsmodels', 'pyforest', 'pycaret', 
-                      'jupyter', 'xgboost', 'imbalanced-learn', 'bokeh', 
-                      'Boruta', 'spyder', 'mlxtend', 'lightgbm', 'catboost'],
-    keywords=['pandas', 'numpy', 'scipy', 'matplotlib', 'seaborn', 'scikit-learn', 'statsmodels', 'pyforest', 'pycaret', 'jupyter', 'xgboost', 'imbalanced-learn', 'bokeh', 'Boruta', 'spyder', 'mlxtend', 'lightgbm', 'catboost', 'Data Science', 'Package',
-              'Data science environment setup package', 'Package', 'datascienv'],
+                      'scikit-learn', 'statsmodels', 'pyforest', 'pycaret', 'Flask', 'fastapi',
+                      'jupyter', 'xgboost', 'imbalanced-learn', 'bokeh', 'kat',
+                      'Boruta', 'spyder', 'mlxtend', 'lightgbm', 'catboost',
+                      'tensorflow-cpu==2.6.0', 'tensorflow-gpu==2.6.0'],
+    keywords=['Datascienv', 'Data Science installation in single line', 'data science', 'datascience', 'datasci', 'datascience environment'],
     url='http://github.com/ashishpatel26/datascienv',
     include_package_data=True,
     classifiers=[
-        "Development Status :: 1 - Planning",
-        "Intended Audience :: Developers",
+        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
-        "Operating System :: Unix",
-        "Operating System :: MacOS :: MacOS X",
-        "Operating System :: Microsoft :: Windows",
     ],
+    platforms=["any"],
     zip_safe=True,
 )

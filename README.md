@@ -4,7 +4,7 @@
 
 This package helps to setup your Data Science environment in single line.
 
-Developed by Ashish Patel(c) 2020.
+Developed by Ashish Patel(c) 2021.
 
 ## datascienv
 

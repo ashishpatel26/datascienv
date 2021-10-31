@@ -7,12 +7,17 @@ scikit-learn
 statsmodels
 pyforest
 pycaret
+Flask
+fastapi
 jupyter
 xgboost
 imbalanced-learn
 bokeh
+kat
 Boruta
 spyder
 mlxtend
 lightgbm
 catboost
+tensorflow-cpu==2.6.0
+tensorflow-gpu==2.6.0
