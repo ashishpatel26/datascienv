@@ -37,6 +37,10 @@ datascienv is a python package offering a single line Data Science Environment s
 - `lightgbm`(lightgbm) - https://lightgbm.readthedocs.io/en/latest/
 - `catboost`(latest) - https://catboost.ai/
 - `pycaret`(latest) - https://pycaret.org/
+- `tensorflow(latest)` - https://www.tensorflow.org/tutorials
+- `flask(latest)` - https://flask.palletsprojects.com/en/2.0.x/
+- `fastapi(latest)` - https://fastapi.tiangolo.com/tutorial/
+- `kats(latest)` - https://facebookresearch.github.io/Kats/
 
 
 #### Installation
