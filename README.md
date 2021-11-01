@@ -41,6 +41,7 @@ datascienv is a python package offering a single line Data Science Environment s
 - `flask(latest)` - https://flask.palletsprojects.com/en/2.0.x/
 - `fastapi(latest)` - https://fastapi.tiangolo.com/tutorial/
 - `kats(latest)` - https://facebookresearch.github.io/Kats/
+- `keras(latest)` - https://keras.io/examples/
 
 
 #### Installation
