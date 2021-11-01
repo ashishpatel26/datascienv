@@ -1,13 +1,14 @@
 Metadata-Version: 2.1
 Name: datascienv
-Version: 0.1.1
+Version: 0.1.2
 Summary: Data Science package for setup data science environment in single line
 Home-page: http://github.com/ashishpatel26/datascienv
 Author: ashishpatel26
 Author-email: ashishpatel.ce.2011@gmail.com
 License: UNKNOWN
-Description: 
-        # Data Science Environment Setup in single line
+Description: # Data Science Environment Setup in single line
+        
+        #  [![PyPI version](https://badge.fury.io/py/datascienv.svg)](https://badge.fury.io/py/datascienv) [![GitHub version](https://badge.fury.io/gh/ashishpatel26%2Fdatascienv.svg)](https://badge.fury.io/gh/ashishpatel26%2Fdatascienv) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
         
         This package helps to setup your Data Science environment in single line.
         
@@ -48,19 +49,13 @@ Description:
         
         #### Installation
         
-        datasciecne is currently available on the PyPi's repository and you can install it via pip:
+        * datascience is currently available on the PyPi's repository and you can install it via pip:
         
         ```bash
         pip install -U datascienv
         ```
         
-        The package is release also in Anaconda Cloud platform:
-        
-        ```bash
-        conda install -c conda-forge datascienv
-        ```
-        
-        If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
+        * If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
         
         ```bash
         git clone https://github.com/ashishpatel26/datascienv.git
@@ -68,17 +63,21 @@ Description:
         pip install .
         ```
         
-        Or install using pip and GitHub:
+        * Or install using pip and GitHub:
         
         ```bash
         pip install -U git+https://github.com/ashishpatel26/datascienv.git
         ```
-Keywords: pandas,numpy,scipy,matplotlib,seaborn,scikit-learn,statsmodels,pyforest,pycaret,jupyter,xgboost,imbalanced-learn,bokeh,Boruta,spyder,mlxtend,lightgbm,catboost,Data Science,Package,Data science environment setup package,Package,datascienv
-Platform: UNKNOWN
-Classifier: Development Status :: 1 - Planning
-Classifier: Intended Audience :: Developers
+        
+        * **Warnings:** If you find this type of warning then ignore that warning.
+        
+        ![](https://raw.githubusercontent.com/ashishpatel26/datascienv/main/img/warning.jpg)
+        
+        ---
+        
+        
+Keywords: Datascienv,Data Science installation in single line,data science,datascience,datasci,datascience environment
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
-Classifier: Operating System :: Unix
-Classifier: Operating System :: MacOS :: MacOS X
-Classifier: Operating System :: Microsoft :: Windows
 Description-Content-Type: text/markdown

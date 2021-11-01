@@ -1,10 +1,10 @@
 # Data Science Environment Setup in single line
 
-#  [![PyPI version](https://badge.fury.io/py/datascienv.svg)](https://badge.fury.io/py/datascienv) [![GitHub version](https://badge.fury.io/gh/ashishpatel26%2Fdatascienv.svg)](https://badge.fury.io/gh/ashishpatel26%2Fdatascienv) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+#  [![PyPI version](https://badge.fury.io/py/datascienv.svg)](https://badge.fury.io/py/datascienv) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 
 This package helps to setup your Data Science environment in single line.
 
-Developed by Ashish Patel(c) 2020.
+Developed by Ashish Patel(c) 2021.
 
 ## datascienv
 
